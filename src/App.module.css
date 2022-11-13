@@ -1,0 +1,33 @@
+body {
+	background-color: #0c2d48;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+}
+
+.label {
+	font-size: 1.5em;
+}
+
+.card {
+	width: 40vh;
+	height: 40vh;
+	padding: 25px;
+	background-color: #2e8bc0;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.button {
+	background-color: #145da0;
+	color: #b1d4e0;
+	border-color: #0c2d48;
+	font-size: 1.2em;
+	border-radius: 5px;
+	width: 80%;
+	height: 10%;
+	margin-top: auto;
+}
